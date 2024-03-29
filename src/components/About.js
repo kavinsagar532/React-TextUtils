@@ -41,7 +41,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body" style={mystyle}>
-                            It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            You could easily count the number of words and characters which you are typing in the textbox.
                         </div>
                     </div>
                 </div>
@@ -53,19 +53,19 @@ export default function About(props) {
                 </h2>
                 <div id="collapseTwo" style={mystyle} class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body" style={mystyle}>
-                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        This application is completely Free to Use and your basic text editing works will be completed just in a couple of seconds which makes your work a lot easier than before.
                     </div>
                 </div>
             </div>
             <div class="accordion-item" style={mystyle}>
                 <h2 class="accordion-header">
                 <button class="accordion-button collapsed" style={mystyle} type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    Accordion Item #3
+                    Simpify Small Tasks
                 </button>
                 </h2>
                 <div id="collapseThree" style={mystyle} class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            You could simplify these kind of tasks by using this application which saves a lot of time which makes you more productive.
                         </div>
                 </div>
             </div>
